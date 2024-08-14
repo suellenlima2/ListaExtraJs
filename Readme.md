@@ -1,7 +1,7 @@
 # README - Lista de Exercícios JavaScript
 
-**Nome da Aluna:** Suellen L. da Silva 
-**Professora:** Prof. Maurício Jr  
+**Nome da Aluna:** Suellen L. da Silva
+**Professor:** Prof. Maurício Jr  
 **Data de Entrega:** 16 de agosto, 23:59
 
 ## Descrição da Atividade
