@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Limites</title>
+    <link rel="stylesheet" href="css/limites.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Limites</h1>
+        <form id="limitesForm"> 
+            <label for="li">Limite Inferior:</label>
+            <input type="number" id="li" required>
+            <label for="ls">Limite Superior:</label>
+            <input type="number" id="ls" required>
+            <button type="button" onclick="verificarLimites()">Verificar</button>
+        </form>
+        <p id="resultado"></p>
+    </div>
+
+    <script src="js/limites.js"></script>
+</body>
+</html>
